@@ -1,6 +1,6 @@
-# Zipapp Less
+# zipapp-less
 
-This code is porting the ZIPAPP code into LESS.
+This code is porting the [Zipapp](http://zipapp.co.uk/) code into [LESS](http://lesscss.com) syntax.
 
 ```js
   lessc default.less > output/default.css
